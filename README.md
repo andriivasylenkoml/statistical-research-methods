@@ -6,6 +6,6 @@ A t test is a statistical test that is used to compare the means of two groups. 
 
 > **t test example**
 >
->You want to know whether the mean petal length of iris flowers differs according to their species. You find two different species of irises growing in a garden and measure 25 petals of each species. You can test the difference between these two groups using a t test and null and alterative hypotheses.
+>You want to know whether the mean petal length of iris flowers differs according to their species. You find two different species of irises growing in a garden and measure 25 petals of each species. You can test the difference between these two groups using a t test and null and alternative hypotheses.
 >- The null hypothesis (H0) is that the true difference between these group means is zero.
 >- The alternate hypothesis (Ha) is that the true difference is different from zero.
